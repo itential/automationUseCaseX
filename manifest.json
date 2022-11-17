@@ -1,0 +1,26 @@
+{
+  "bundleName": "@mitch/pb-211",
+  "version": "0.0.1",
+  "fingerprint": "6376acc5870fe8007a1a7f39",
+  "createdEpoch": "1668721861693",
+  "artifacts": [
+    {
+      "id": "wf-parent-21.1",
+      "name": "wf-parent-21.1",
+      "type": "workflow",
+      "location": "/bundles/workflows/wf-parent-21.1.json",
+      "properties": {
+        "entryPoint": false
+      }
+    },
+    {
+      "id": "6351891f0bb2ba00d646dd79",
+      "name": "wf-parent-21.1",
+      "type": "transformation",
+      "location": "/bundles/transformations/wf-parent-21.1.json",
+      "properties": {
+        "entryPoint": false
+      }
+    }
+  ]
+}
